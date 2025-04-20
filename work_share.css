@@ -149,6 +149,8 @@ body{
     .software_img{
         width: 23.958333333333332vw;
         padding: 0.78125vw;
+        box-shadow: 0 4px 7px hsl(0, 0%, 65%);
+        border-radius: 15px
     }
 
     .details{
